@@ -1,0 +1,76 @@
+{
+  "news_papers": [
+    {
+      "name": "Newspaper one",
+      "headlines": [
+        {
+          "title": "Newspaper one title - 1",
+          "short_description": "Newspaper one short-description - 1"
+        },
+        {
+          "title": "Newspaper one title - 2",
+          "short_description": "Newspaper one short-description - 2"
+        },
+        {
+          "title": "Newspaper one title - 3",
+          "short_description": "Newspaper one short-description - 3"
+        },
+        {
+          "title": "Newspaper one title - 4",
+          "short_description": "Newspaper one short-description - 4"
+        },
+        {
+          "title": "Newspaper one title - 5",
+          "short_description": "Newspaper one short-description - 5"
+        }
+      ]
+    },
+    {
+      "name": "Newspaper two",
+      "headlines": [
+        {
+          "title": "Newspaper two title - 1",
+          "short_description": "Newspaper two short-description - 1"
+        },
+        {
+          "title": "Newspaper two title - 2",
+          "short_description": "Newspaper two short-description - 2"
+        },
+        {
+          "title": "Newspaper two title - 3",
+          "short_description": "Newspaper two short-description - 3"
+        }
+      ]
+    },
+    {
+      "name": "Newspaper three",
+      "headlines": [
+        {
+          "title": "Newspaper three title - 1",
+          "short_description": "Newspaper three short-description - 1"
+        },
+        {
+          "title": "Newspaper three title - 2",
+          "short_description": "Newspaper three short-description - 2"
+        }
+      ]
+    },
+    {
+      "name": "Newspaper four",
+      "headlines": [
+        {
+          "title": "Newspaper four title - 1",
+          "short_description": "Newspaper four short-description - 1"
+        },
+        {
+          "title": "Newspaper four title - 2",
+          "short_description": "Newspaper four short-description - 2"
+        },
+        {
+          "title": "Newspaper four title - 3",
+          "short_description": "Newspaper four short-description - 3"
+        }
+      ]
+    }
+  ]
+}
